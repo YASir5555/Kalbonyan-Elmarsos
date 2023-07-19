@@ -19,4 +19,4 @@
 ---
 [Course-Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)<br>
 
-![Certificate]([https://via.placeholder.com/468x300?text=Certificate+Here](https://www.udemy.com/certificate/UC-13dd42ee-a966-4420-90f2-40d9262e5b6a/)https://www.udemy.com/certificate/UC-13dd42ee-a966-4420-90f2-40d9262e5b6a/)
+![Certificate]([[https://via.placeholder.com/468x300?text=Certificate+Here](https://www.udemy.com/certificate/UC-13dd42ee-a966-4420-90f2-40d9262e5b6a/)https://www.udemy.com/certificate/UC-13dd42ee-a966-4420-90f2-40d9262e5b6a/](https://www.udemy.com/certificate/UC-13dd42ee-a966-4420-90f2-40d9262e5b6a/)https://www.udemy.com/certificate/UC-13dd42ee-a966-4420-90f2-40d9262e5b6a/)
