@@ -4,7 +4,7 @@
 
 ## Projects
 
-### Calculator (S6)
+### Calculator (S2)
 
 - [Project Code](./Projects/01-Calculator/)
 - [Live Demo]()
